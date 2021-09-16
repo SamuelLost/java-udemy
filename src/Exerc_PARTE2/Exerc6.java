@@ -26,6 +26,8 @@ public class Exerc6 {
 		else {
 			System.out.println("Fora de intervalo");
 		}
+		
+		sc.close();
 	}
 
 }

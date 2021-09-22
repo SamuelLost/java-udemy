@@ -19,3 +19,7 @@ Classes compiladas dos códigos acima:
 Calcular a área e perímetro de um triângulo de lados a,b,c: [Class Triangle](https://github.com/SamuelLost/java-udemy/tree/main/srcTriangle)
 
 Gerenciar um estoque, adicionar e remover produtos: [Class Product](https://github.com/SamuelLost/java-udemy/tree/main/srcStock)
+
+Calcular área, perímetro e diagonal de um retângulo: [Class Rectangle](https://github.com/SamuelLost/java-udemy/tree/main/srcRectangle)
+
+Gerenciar um funcionário, salário bruto e líquido, imposto e aumento do salário: [Class Employee](https://github.com/SamuelLost/java-udemy/tree/main/srcEmployee)

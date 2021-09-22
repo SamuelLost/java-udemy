@@ -23,3 +23,5 @@ Gerenciar um estoque, adicionar e remover produtos: [Class Product](https://gith
 Calcular área, perímetro e diagonal de um retângulo: [Class Rectangle](https://github.com/SamuelLost/java-udemy/tree/main/srcRectangle)
 
 Gerenciar um funcionário, salário bruto e líquido, imposto e aumento do salário: [Class Employee](https://github.com/SamuelLost/java-udemy/tree/main/srcEmployee)
+
+Calcular nota final e analisar se o aluno foi aprovado ou não: [Class Aluno](https://github.com/SamuelLost/java-udemy/tree/main/srcAluno)

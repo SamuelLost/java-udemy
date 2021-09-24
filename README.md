@@ -16,21 +16,12 @@ Classes compiladas dos códigos acima:
 ### 2. Primeiros exercícios utilizando POO
 *Para encontrar as classes compiladas para acessar o [link](https://github.com/SamuelLost/java-udemy/tree/main/bin) e procurar por pastas referentes ao nome dos pacotes utilizados*
 
-Calcular a área e perímetro de um triângulo de lados a,b,c: [Class Triangle](https://github.com/SamuelLost/java-udemy/tree/main/srcTriangle)
-
-Gerenciar um estoque, adicionar e remover produtos: [Class Product](https://github.com/SamuelLost/java-udemy/tree/main/srcStock)
-
-Calcular área, perímetro e diagonal de um retângulo: [Class Rectangle](https://github.com/SamuelLost/java-udemy/tree/main/srcRectangle)
-
-Gerenciar um funcionário, salário bruto e líquido, imposto e aumento do salário: [Class Employee](https://github.com/SamuelLost/java-udemy/tree/main/srcEmployee)
-
-Calcular nota final e analisar se o aluno foi aprovado ou não: [Class Aluno](https://github.com/SamuelLost/java-udemy/tree/main/srcAluno)
-
-Exercício para calcular circunferência e volume a partir de um raio digitado
-
-Foi realizado em 3 versões:
-- Versão 1: métodos na própria classe do programa
-- Versão 2: classe Calculator com membros de instância
-- Versão 3: classe Calculator com método estático
-
-Todas as versões estão juntas no [link](https://github.com/SamuelLost/java-udemy/tree/main/srcCircle)
+1. Calcular a área e perímetro de um triângulo de lados a,b,c: [Class Triangle](https://github.com/SamuelLost/java-udemy/tree/main/srcTriangle)
+2. Gerenciar um estoque, adicionar e remover produtos: [Class Product](https://github.com/SamuelLost/java-udemy/tree/main/srcStock)
+3. Calcular área, perímetro e diagonal de um retângulo: [Class Rectangle](https://github.com/SamuelLost/java-udemy/tree/main/srcRectangle)
+4. Gerenciar um funcionário, salário bruto e líquido, imposto e aumento do salário: [Class Employee](https://github.com/SamuelLost/java-udemy/tree/main/srcEmployee)
+5. Calcular nota final e analisar se o aluno foi aprovado ou não: [Class Aluno](https://github.com/SamuelLost/java-udemy/tree/main/srcAluno)
+6. Exercício para calcular circunferência e volume a partir de um raio digitado. Foi realizado em 3 versões ([link](https://github.com/SamuelLost/java-udemy/tree/main/srcCircle)):
+    - Versão 1: métodos na própria classe do programa
+    - Versão 2: classe Calculator com membros de instância
+    - Versão 3: classe Calculator com método estático

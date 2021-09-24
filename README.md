@@ -25,3 +25,7 @@ Classes compiladas dos códigos acima:
     - Versão 1: métodos na própria classe do programa
     - Versão 2: classe Calculator com membros de instância
     - Versão 3: classe Calculator com método estático
+7. Exercício que ler a cotação do dólar e depois um valor em dólares a ser comprado por uma pessoa em reais. 
+Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a pessoa terá que pagar 6% de IOF sobre o valor em dólar.
+
+Foi utilizado membros e métodos estáticos: [Class CurrencyConverter](https://github.com/SamuelLost/java-udemy/tree/main/srcDolar)

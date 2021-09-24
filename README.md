@@ -5,6 +5,7 @@ Prof. Nélio Alves
 Códigos e projetos desenvolvidos durante o curso
 1. Exercícios e estruturas básicas
 2. Introdução à POO
+3. Contrutores, a palavra *this*, encapsulamento
 
 ### 1. Exemplos de códigos
 Exercícios, assuntos e estruturas básicas de programação:
@@ -29,3 +30,5 @@ Classes compiladas dos códigos acima:
 Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a pessoa terá que pagar 6% de IOF sobre o valor em dólar.
 
 Foi utilizado membros e métodos estáticos: [Class CurrencyConverter](https://github.com/SamuelLost/java-udemy/tree/main/srcDolar)
+
+### 3. Contrutores, a palavra *this*, encapsulamento

@@ -25,3 +25,12 @@ Calcular área, perímetro e diagonal de um retângulo: [Class Rectangle](https:
 Gerenciar um funcionário, salário bruto e líquido, imposto e aumento do salário: [Class Employee](https://github.com/SamuelLost/java-udemy/tree/main/srcEmployee)
 
 Calcular nota final e analisar se o aluno foi aprovado ou não: [Class Aluno](https://github.com/SamuelLost/java-udemy/tree/main/srcAluno)
+
+Exercício para calcular circunferência e volume a partir de um raio digitado
+
+Foi realizado em 3 versões:
+- Versão 1: métodos na própria classe do programa
+- Versão 2: classe Calculator com membros de instância
+- Versão 3: classe Calculator com método estático
+
+Todas as versões estão juntas no [link](https://github.com/SamuelLost/java-udemy/tree/main/srcCircle)

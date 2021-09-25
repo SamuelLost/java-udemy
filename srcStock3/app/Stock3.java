@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Product3;
 
-public class Stock2 {
+public class Stock3 {
 
 	public static void main(String[] args) {
 		/* Versão 2: utilizando contrutor
@@ -27,6 +27,12 @@ public class Stock2 {
 		
 		// Obrigando a informar os dados do produto no momento da instanciação
 		Product3 product = new Product3(name, price, quantity);
+		
+		product.setName("Computer");
+		System.out.println("Updated name: " + product.getName());
+		product.setPrice(1200.00);
+		System.out.println("Updated price: " + product.getPrice());
+		
 		
 		System.out.println("\nProduct data: " + product.toString() + "\n");
 		

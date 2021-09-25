@@ -33,4 +33,4 @@ Foi utilizado membros e métodos estáticos: [Class CurrencyConverter](https://g
 
 ### 3. Contrutores, a palavra *this*, encapsulamento
 1. Estoque versão 2: utilizando construtor para a [Class Product2](https://github.com/SamuelLost/java-udemy/tree/main/srcStock2)
-2. 
+2. Estoque versão 3: utilizando encapsulamento (private), getters e setters para a [Class Product3](https://github.com/SamuelLost/java-udemy/tree/main/srcStock2)

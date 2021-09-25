@@ -32,3 +32,5 @@ Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que
 Foi utilizado membros e métodos estáticos: [Class CurrencyConverter](https://github.com/SamuelLost/java-udemy/tree/main/srcDolar)
 
 ### 3. Contrutores, a palavra *this*, encapsulamento
+1. Estoque versão 2: utilizando construtor para a [Class Product2](https://github.com/SamuelLost/java-udemy/tree/main/srcStock2)
+2. 

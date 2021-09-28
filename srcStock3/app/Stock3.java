@@ -8,9 +8,8 @@ import entities.Product3;
 public class Stock3 {
 
 	public static void main(String[] args) {
-		/* Versão 2: utilizando contrutor
-		 * Programa que faz a gerência de um estoque
-		 * remove e adiciona produtos
+		/* Versão 3: utilizando encapsulamento (private), 
+		 * getters e setters
 		 */
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);

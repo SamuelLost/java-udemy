@@ -8,7 +8,7 @@ public class Product3 {
 	private double price;
 	private int quantity;
 	
-	//Versão 2: utilizando construtor
+	//Versão 3: utilizando encapsulamento (private), getters e setters
 	public Product3(String name, double price, int quantity) {
 		//this referencia o objeto, ou seja, o name da linha 5
 		this.name = name;

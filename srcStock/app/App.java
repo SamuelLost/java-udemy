@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 import entities.Product;
 
+
 public class App {
 
 	public static void main(String[] args) {

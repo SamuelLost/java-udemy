@@ -39,3 +39,4 @@ Foi utilizado membros e métodos estáticos: [Class CurrencyConverter](https://g
 ### 4. Arrays, listas e memória
 1. Exemplo de uso do array: [Array](https://github.com/SamuelLost/java-udemy/tree/main/src/Array.java)
 2. Utilizando array de classe: [Class ProductArray](https://github.com/SamuelLost/java-udemy/tree/main/srcProduct)
+3. Sistema de aluguel de quartos: [Class Quartos](https://github.com/SamuelLost/java-udemy/tree/main/srcQuartos)

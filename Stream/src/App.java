@@ -18,5 +18,9 @@ public class App {
         Stream<Long> st4 = Stream.iterate(new long[] { 0L, 1L }, p -> new long[] { p[1], p[0] + p[1] }).map(p -> p[0]);
         System.out.println(Arrays.toString(st4.limit(10).toArray()));
 
+        // Sum with reduce
+        int sum = list.stream().reduce(0, (x, y) -> x + y);
+        System.out.println("Sum = " + sum);
+
     }
 }
